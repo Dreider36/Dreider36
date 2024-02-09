@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladyslav</h1>
-<h3 align="center">A React Frontend Developer from Ukraine</h3>
+<h3 align="center">A React/Next Frontend Developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreider36&label=Profile%20views&color=0e75b6&style=flat" alt="dreider36" /> </p>
 
